@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MVVMSample.xcscheme</key>
+		<key>MVVMSample.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DA442E981FBAAF1200477C9E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA442EAC1FBAAF1200477C9E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA442EB71FBAAF1200477C9E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
