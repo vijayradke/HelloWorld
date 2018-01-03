@@ -17,7 +17,6 @@
 		DA442ED61FBAB57B00477C9E /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA442ED51FBAB57B00477C9E /* ListViewModel.swift */; };
 		DA442ED81FBACC4A00477C9E /* TopAppsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA442ED71FBACC4A00477C9E /* TopAppsTableViewController.swift */; };
 		DA442EDC1FBACF0200477C9E /* ImageViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA442EDB1FBACF0200477C9E /* ImageViewExtension.swift */; };
-		DAC7AC241FFC8AE500105723 /* ExportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = DAC7AC231FFC8AE500105723 /* ExportOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		DA442ED51FBAB57B00477C9E /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 		DA442ED71FBACC4A00477C9E /* TopAppsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopAppsTableViewController.swift; sourceTree = "<group>"; };
 		DA442EDB1FBACF0200477C9E /* ImageViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewExtension.swift; sourceTree = "<group>"; };
-		DAC7AC231FFC8AE500105723 /* ExportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ExportOptions.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +113,6 @@
 				DA442EA31FBAAF1200477C9E /* Assets.xcassets */,
 				DA442EA51FBAAF1200477C9E /* LaunchScreen.storyboard */,
 				DA442EA81FBAAF1200477C9E /* Info.plist */,
-				DAC7AC231FFC8AE500105723 /* ExportOptions.plist */,
 			);
 			path = MVVMSample;
 			sourceTree = "<group>";
@@ -303,7 +300,6 @@
 				DA442EA71FBAAF1200477C9E /* LaunchScreen.storyboard in Resources */,
 				DA442EA41FBAAF1200477C9E /* Assets.xcassets in Resources */,
 				DA442EA21FBAAF1200477C9E /* Main.storyboard in Resources */,
-				DAC7AC241FFC8AE500105723 /* ExportOptions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
