@@ -13,9 +13,13 @@
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
 	<string>8HA85RMQK6</string>
+	<key>thinning</key>
+	<string>&lt;thin-for-all-variants&gt;</string>
 </dict>
 </plist>
